@@ -23,6 +23,15 @@ Rebuild a photograph with complete colour planes into a geometric memory recogni
 | sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -55,10 +64,6 @@ Panel 109 is for recognisable photographs that feel visually overloaded. It rebu
 | Result | One complete poster pairing faithful reality with a large-plane geometric reconstruction |
 | Signature | Few complete modules, soft modern colour, subtle paper grain, and editorial negative space |
 | Source fidelity | Identity, structure, pose, and relationships remain clear while information density changes |
-
-## Transformation logic
-
-`read identity and structure → retain defining contours → select 2–4 source colours → remove fussy background → rebuild with complete geometric modules → balance positive–negative form, paper grain, and whitespace`
 
 ## Complete capability and boundaries
 
