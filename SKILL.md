@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-109
-description: "Turn each source photograph into a strict 50:50 top-bottom or left-right poster whose transformed half rebuilds its identity as a restrained, modular geometric collage with soft modern colour and paper grain. Use when the user invokes xxd-panel-109 or requests this exact independent Panel style."
+description: "XXD Panel 109｜Soft Geometric Deconstruction: rebuilds the subject, outline and structure of a photo as a blocky, modular geometric illustration — a few large, complete rectangles, squares, rounded squares, ovals and triangles rather than many small fragments, people with square faces, clear jaws and block features, buildings as solid masses with façade zones and window rhythm, flat colour pieces joined like paper collage, a small subject in large whitespace placed off-centre or against an edge, gentle paper grain and light print texture, two to four colours from the photo refined into soft tones (cream, apricot, peach, mist blue, sage, warm brown), and a few small labels in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-109 or asks for blocky geometric, modular collage or soft modernist geometric illustration from a photo."
 ---
 
 # XXD Panel 109

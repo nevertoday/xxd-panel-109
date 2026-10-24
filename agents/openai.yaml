@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-109"
-  short_description: "Modular geometric reconstruction with large blocks, soft colour, and editorial whitespace."
-  default_prompt: "Use $xxd-panel-109 on one image or an image directory. Read the bundled Chinese original brief as the sole aesthetic authority; keep paired modes strict 50:50 with no third band; isolate every source; and create one complete PNG canvas per output."
+  short_description: "柔和几何解构志：把照片拆成少量完整的大方块，用柔和配色拼成纸本几何插画"
+  default_prompt: "Use $xxd-panel-109 to turn my photo into Soft Geometric Deconstruction artwork."
 
 policy:
   allow_implicit_invocation: true

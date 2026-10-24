@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 109｜Soft Geometric Deconstruction: rebuilds the subject, outline and structure of a photo as a blocky, modular geometric illustration — a few large, complete rectangles, squares, rounded squares, ovals and triangles rather than many small fragments, people with square faces, clear jaws and block features, buildings as solid masses with façade zones and window rhythm, flat colour pieces joined like paper collage, a small subject in large whitespace placed off-centre or against an edge, gentle paper grain and light print texture, two to four colours from the photo refined into soft tones (cream, apricot, peach, mist blue, sage, warm brown), and a few small labels in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-109 or asks for blocky geometric, modular collage or soft modernist geometric illustration from a photo.",
+  "short_description": "柔和几何解构志：把照片拆成少量完整的大方块，用柔和配色拼成纸本几何插画",
+  "zh-CN": {
+    "name": "柔和几何解构志",
+    "tagline": "把照片拆成几块完整的大方块，再用柔和的颜色拼回一个好认的形象。",
+    "look": "主体用更少、更大、更完整的矩形、方块、圆角方块、椭圆和三角形重新拼出来，不切成零碎小块。人物会有方形脸、清楚的下颌线和块面五官，建筑变成方整体量、立面分区和窗洞节奏，动物、植物、器物也都有方块秩序。色块像纸片一样拼接，主体尺度小，偏心、贴边或局部裁切，四周大片留白。表面有温和的纸张颗粒和一点版画印刷感。颜色是从照片取的二到四种，调成奶油白、杏色、蜜桃粉、雾蓝、鼠尾草绿、暖棕这类柔和色。文字只有小小的标题、注释或编号。",
+    "traits": [
+      "大块面模块",
+      "几何拆分",
+      "柔和配色",
+      "纸本颗粒",
+      "现代主义拼贴",
+      "编辑留白"
+    ],
+    "good": [
+      "轮廓方正、结构清楚的主体：一栋楼、一辆公交车、一把椅子、一台收音机",
+      "五官和发型有特点的人像：短发的侧脸、戴眼镜的人、戴帽子的人",
+      "颜色柔和、能挑出两三种代表色的照片：杏色墙、绿植、蓝色门"
+    ],
+    "poor": [
+      "以曲线、纹理和细节为主的照片：花丛特写、毛发、蕾丝、水面倒影",
+      "人多、物多的场景，会被压缩成一个小主体",
+      "想要写实描摹、细碎拼贴、卡通或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Soft Geometric Deconstruction",
+    "tagline": "Breaks a photo into a few large, whole blocks, then reassembles a recognisable figure in soft colours.",
+    "look": "The subject is rebuilt from fewer, larger, complete rectangles, squares, rounded squares, ovals and triangles rather than many small fragments. People get square faces, clear jawlines and block features; buildings become solid masses with façade zones and window rhythm; animals, plants and objects follow the same blocky order. Colour pieces are joined like paper, and the subject is kept small, off-centre, against an edge or partly cropped, inside wide whitespace. The surface has gentle paper grain and a light print feel. Two to four colours from the photo are refined into soft tones such as cream, apricot, peach, mist blue, sage and warm brown. Text is limited to a small title, note or number.",
+    "traits": [
+      "Large modular blocks",
+      "Geometric splitting",
+      "Soft palette",
+      "Paper grain",
+      "Modernist collage",
+      "Editorial whitespace"
+    ],
+    "good": [
+      "Boxy subjects with clear structure: a building, a bus, a chair, a radio",
+      "Portraits with distinctive features or hair: a short-haired profile, someone in glasses, a person in a hat",
+      "Softly coloured photos with two or three signature colours: an apricot wall, green plants, a blue door"
+    ],
+    "poor": [
+      "Photos built on curves, texture and detail: close-up flower beds, fur, lace, reflections on water",
+      "Scenes full of people and things, which get compressed into one small subject",
+      "Requests for realistic tracing, fragmented collage, cartoons or 3D"
+    ]
+  },
+  "ja": {
+    "name": "柔和な幾何解構誌",
+    "tagline": "写真をいくつかの大きくまとまった四角に分け、柔らかな色でわかりやすい姿に組み直します。",
+    "look": "主役は、細かな破片ではなく、より少なく大きくまとまった長方形、正方形、角丸の四角、楕円、三角形で組み直されます。人物は四角い顔、はっきりしたあごの線、面でできた目鼻立ちに、建物はがっしりした塊、ファサードの区分、窓のリズムに。動物、植物、道具も同じ四角の秩序に従います。色面は紙のようにつなぎ合わされ、主役は小さく、中心を外したり端に寄せたり一部を切ったりして、まわりは広い余白です。表面にはおだやかな紙の粒子と少しの版画らしさがあります。色は写真から取った二〜四色を、クリーム、アプリコット、ピーチ、霧のような青、セージ、暖かな茶などの柔らかな色に整えます。文字は小さなタイトル、注記、番号だけです。",
+    "traits": [
+      "大きなモジュールの面",
+      "幾何学的な分割",
+      "柔らかな配色",
+      "紙の粒子",
+      "モダニズムのコラージュ",
+      "エディトリアルな余白"
+    ],
+    "good": [
+      "四角く構造のはっきりした主役：ビル、バス、椅子、ラジオ",
+      "顔立ちや髪型に特徴のある人物：短髪の横顔、眼鏡の人、帽子の人",
+      "色が柔らかく、代表色を二、三色選べる写真：アプリコット色の壁、観葉植物、青い扉"
+    ],
+    "poor": [
+      "曲線や質感、細部が中心の写真：花畑のアップ、毛並み、レース、水面の映り込み",
+      "人や物が多い場面（小さな主役ひとつに凝縮されます）",
+      "写実的ななぞり描き、細切れのコラージュ、カートゥーン、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 기하 해체 기록",
+    "tagline": "사진을 몇 개의 크고 온전한 블록으로 나눈 뒤, 부드러운 색으로 알아보기 쉬운 모습을 다시 조립합니다.",
+    "look": "주인공은 잘게 쪼갠 조각이 아니라 더 적고 더 크고 온전한 직사각형, 정사각형, 둥근 사각형, 타원, 삼각형으로 다시 짜입니다. 사람은 네모난 얼굴, 또렷한 턱선, 면으로 된 이목구비를, 건물은 단단한 매스, 입면 구획, 창의 리듬을 갖고, 동물, 식물, 사물도 같은 블록 질서를 따릅니다. 색면은 종이처럼 이어 붙이고, 주인공은 작게, 중심에서 비켜나거나 가장자리에 붙거나 일부가 잘린 채 넓은 여백 속에 놓입니다. 표면에는 은은한 종이 입자와 약간의 판화 인쇄 느낌이 있습니다. 색은 사진에서 가져온 두세 가지에서 네 가지를 크림, 살구, 피치, 안개 낀 파랑, 세이지, 따뜻한 갈색 같은 부드러운 톤으로 다듬습니다. 글자는 작은 제목, 주석, 번호뿐입니다.",
+    "traits": [
+      "큰 모듈 블록",
+      "기하학적 분할",
+      "부드러운 배색",
+      "종이 입자",
+      "모더니즘 콜라주",
+      "편집 디자인 여백"
+    ],
+    "good": [
+      "반듯하고 구조가 분명한 주인공: 건물, 버스, 의자, 라디오",
+      "이목구비나 머리 모양에 특징이 있는 인물: 짧은 머리의 옆모습, 안경 쓴 사람, 모자 쓴 사람",
+      "색이 부드럽고 대표 색을 두세 가지 고를 수 있는 사진: 살구색 벽, 초록 식물, 파란 문"
+    ],
+    "poor": [
+      "곡선, 질감, 세부가 중심인 사진: 꽃밭 클로즈업, 털, 레이스, 물에 비친 반영",
+      "사람과 물건이 많은 장면(작은 주인공 하나로 압축됩니다)",
+      "사실적 따라 그리기, 잘게 쪼갠 콜라주, 카툰, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجل التفكيك الهندسي الناعم",
+    "tagline": "يفكك الصورة إلى بضع كتل كبيرة كاملة، ثم يعيد تركيب هيئة معروفة بألوان ناعمة.",
+    "look": "يُعاد بناء العنصر من مستطيلات ومربعات ومربعات مستديرة الزوايا وأشكال بيضوية ومثلثات أقل عدداً وأكبر حجماً وأكثر اكتمالاً، لا من شظايا صغيرة كثيرة. يأخذ الأشخاص وجوهاً مربعة وخطوط فك واضحة وملامح من كتل، وتصبح المباني كتلاً صلبة بواجهات مقسّمة وإيقاع نوافذ، وتتبع الحيوانات والنباتات والأشياء النظام الكتلي نفسه. تُوصل القطع اللونية كالورق، ويبقى العنصر صغيراً، منزاحاً عن المركز أو ملاصقاً لحافة أو مقصوصاً جزئياً، وسط فراغ واسع. للسطح حبيبات ورق لطيفة وإحساس طباعي خفيف. تُنقّى لونان إلى أربعة من الصورة إلى درجات ناعمة كالكريمي والمشمشي والخوخي والأزرق الضبابي والأخضر المريمي والبني الدافئ. لا يتجاوز النص عنواناً صغيراً أو ملاحظة أو رقماً.",
+    "traits": [
+      "كتل نمطية كبيرة",
+      "تقسيم هندسي",
+      "ألوان ناعمة",
+      "حبيبات الورق",
+      "كولاج حداثي",
+      "فراغ تحريري"
+    ],
+    "good": [
+      "عناصر مربعة الطابع واضحة البنية: مبنى، حافلة، كرسي، مذياع",
+      "صور شخصية بملامح أو تسريحات مميزة: جانب وجه بشعر قصير، شخص بنظارة، شخص يعتمر قبعة",
+      "صور ناعمة الألوان يمكن انتقاء لونين أو ثلاثة مميزة منها: جدار مشمشي، نباتات خضراء، باب أزرق"
+    ],
+    "poor": [
+      "صور تقوم على المنحنيات والملمس والتفاصيل: لقطات قريبة لأحواض الزهور، الفرو، الدانتيل، انعكاسات الماء",
+      "المشاهد المليئة بالناس والأشياء، إذ تُضغط في عنصر صغير واحد",
+      "طلب نسخ واقعي أو كولاج مفتت أو كرتون أو ثلاثي الأبعاد"
+    ]
+  }
+}
